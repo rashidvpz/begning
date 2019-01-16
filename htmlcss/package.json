@@ -1,0 +1,11 @@
+{
+  "name": "htmlcss",
+  "version": "1.0.0",
+  "description": "first htmlcss programme 16/01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rashid",
+  "license": "ISC"
+}
